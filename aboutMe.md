@@ -90,24 +90,12 @@ Convolutional Neural Network-based object detection system for autonomous vehicl
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Monisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monisha175&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monisha175&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## Certifications
 
-- 🏅 Google Cloud Skill Badges (Multiple)
-- ☁️ Generative AI Applications Using Vertex AI
-- ☁️ Amazon Web Services — Course Completion
-- 🎖️ Merit Scholarship Certificate
+-  Google Cloud Skill Badges (Multiple)
+-  Generative AI Applications Using Vertex AI
+-  Amazon Web Services — Course Completion
+-  Merit Scholarship Certificate
 
 ---
 
