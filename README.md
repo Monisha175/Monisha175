@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a backend engineer graduating from **VIT Vellore** (M.Tech Integrated CSE, CGPA 8.88) with 10 months of hands-on internship experience building and optimizing production-grade Java/Spring Boot services.
+I'm a Aspiring Software engineer graduating from **VIT Vellore** (M.Tech Integrated CSE, CGPA 8.88) with 10 months of hands-on internship experience building and optimizing production-grade Java/Spring Boot services.
 
 My focus areas:
 - **JVM Performance Engineering** — profiling, heap analysis, GC tuning, thread contention resolution
