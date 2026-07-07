@@ -85,7 +85,7 @@ Convolutional Neural Network-based object detection system for autonomous vehicl
 
 | Period | Role | Focus |
 |---|---|---|
-| Aug 2025 – May 2026 | **Performance Dev Intern @ Smart Bridge** | JVM profiling, heap dump analysis, observability pipelines — ↓35% MTTD, ↑28% throughput |
+| Aug 2025 – May 2026 | **Performance Dev Intern @ Nokia** | JVM profiling, heap dump analysis, observability pipelines — ↓35% MTTD, ↑28% throughput |
 | May 2024 – Jul 2024 | **GenAI Intern @ Smart Bridge** | LLM fine-tuning, NLP pipelines, GCP Vertex AI deployment — ↓20% manual QA effort |
 
 ---
